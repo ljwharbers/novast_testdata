@@ -1,0 +1,4 @@
+sample,fastq_1
+ERR9958133,https://github.com/ljwharbers/novast_testdata/raw/refs/heads/main/mouse_small.fastq.gz
+ERR9958133,https://github.com/ljwharbers/novast_testdata/raw/refs/heads/main/mouse_small_fakerep2.fastq.gz
+ERR9958134,https://github.com/ljwharbers/novast_testdata/raw/refs/heads/main/mouse_small.fastq.gz
